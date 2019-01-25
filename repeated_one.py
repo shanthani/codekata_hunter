@@ -1,4 +1,4 @@
-#shan
+#shanu
 r=int(input())
 n=input()
 d={}
