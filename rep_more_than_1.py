@@ -19,4 +19,4 @@ if w>1:
             if y>1:
                 print("",x,end="")
 else:
-    print("unqiue")
+    print("unique")
