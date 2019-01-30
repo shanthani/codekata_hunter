@@ -1,4 +1,4 @@
-#shanthani
+#shan
 n=int(input())
 m=list(map(int,input().split()))
 c=0
